@@ -6,5 +6,3 @@ Included images:
 
 - Dashboard Overview
 - Data Overview
-- Power Query Editor
-- Data Model
